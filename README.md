@@ -1,15 +1,12 @@
-# flutter_ar_project
+XVR-Immersive
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This flutter project does not contain the unity project due to the file size limitations of github
+- Copy the unity project onto your computer from the local machine
+- The project is in a folder called "unity"
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
