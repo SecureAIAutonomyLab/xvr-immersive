@@ -1,6 +1,6 @@
-XVR-Immersive
+# XVR-Immersive
 
-A new Flutter project.
+A new Flutter Unity project.
 
 ## Getting Started
 
