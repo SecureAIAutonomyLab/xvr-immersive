@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Annuler</string>
+    <string name="__arcore_continue">Continuer</string>
+    <string name="__arcore_install_app">Cette application nécessite la dernière version des services Google Play pour la RA.</string>
+    <string name="__arcore_install_feature">Cette fonctionnalité nécessite la dernière version des services Google Play pour la RA.</string>
+    <string name="__arcore_installing">Installation des services Google Play pour la RA en cours…</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

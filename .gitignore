@@ -1,0 +1,4 @@
+unity/
+ios/UnityLibrary
+build/ios/Release-iphoneos/
+build/app/outputs/

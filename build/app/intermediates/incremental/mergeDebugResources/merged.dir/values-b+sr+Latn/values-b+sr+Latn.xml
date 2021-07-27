@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__arcore_cancel">Otkaži</string>
+    <string name="__arcore_continue">Nastavi</string>
+    <string name="__arcore_install_app">Ova aplikacija zahteva najnoviju verziju Google Play usluga za PR.</string>
+    <string name="__arcore_install_feature">Ova funkcija zahteva najnoviju verziju Google Play usluga za PR.</string>
+    <string name="__arcore_installing">Instaliraju se Google Play usluge za PR…</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/admin/Desktop/Projects/flutter_ar_project/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "502",
+                        "endColumns": "100",
+                        "endOffsets": "598"
+                    }
+                },
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/edd236ad08e1aeaed3aedcfda5ffecde/jetified-arcore_client/res/values-be/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,240,288,408,531",
+                        "endColumns": "49,47,119,122,85",
+                        "endOffsets": "239,287,407,530,616"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,161,285,412",
+                        "endColumns": "53,51,123,126,89",
+                        "endOffsets": "104,156,280,407,497"
+                    }
+                }
+            ]
+        }
+    ]
+}

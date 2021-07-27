@@ -1,0 +1,2 @@
+com/xraph/plugin/flutter_unity_widget/BuildConfig.java
+ com.xraph.plugin.flutter_unity_widget.BuildConfig
